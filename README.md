@@ -1,7 +1,7 @@
 # Hi there!
 
 > **Software Engineer · AI Engineer · Machine Learning Engineer**  
-> Building practical AI systems with agents, RAG, ML pipelines, and backend engineering.
+> Building practical AI systems with agents, RAG, ML pipelines, and backend infrastructure.
 
 ## Tech Stack
 
@@ -43,6 +43,4 @@
 
 ## Interests
 
-- LLM Applications & Agentic Workflows
-- Machine Learning Engineering
-- Backend Systems for AI Products
+LLM Applications · Agentic Workflows · Machine Learning Engineering · Backend Systems for AI Products
