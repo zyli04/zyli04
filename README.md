@@ -29,6 +29,7 @@
 - Agentic AI & Autonomous Systems  
 - Applied AI in real-world finance scenarios
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/zyli04/svg?sort=cost)](https://tokscale.ai/u/zyli04)
 
 <!---
 - 👀 I’m interested in ...
