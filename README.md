@@ -1,6 +1,6 @@
 # Hi there!
 
-> **Software Engineer · AI Engineer · Machine Learning Engineer**  
+> **Software Engineer · AI Engineer · Machine Learning Engineer · Data Engineer**  
 > Building practical AI systems with agents, RAG, ML pipelines, and backend infrastructure.
 
 ## Tech Stack
