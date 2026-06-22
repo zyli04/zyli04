@@ -33,7 +33,7 @@
 
 ## Token Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/zyli04/svg?sort=cost)](https://tokscale.ai/u/zyli04)
+[![Tokscale Stats](https://tokscale.ai/api/embed/zyli04/svg?sort=cost&graph=1&rank=percent&tokens=full&cost=full)](https://tokscale.ai/u/zyli04)
 
 ## What I'm Working On
 
