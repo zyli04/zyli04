@@ -35,12 +35,6 @@
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/zyli04/svg?sort=cost&graph=1&rank=percent&tokens=full&cost=full)](https://tokscale.ai/u/zyli04)
 
-## What I'm Working On
-
-- LLM applications with tool use, memory, and workflow automation
-- RAG and agent systems for research, knowledge work, and data tasks
-- ML and backend pipelines focused on accuracy, latency, and reliability
-
 ## Interests
 
 LLM Applications · Agentic Workflows · Machine Learning Engineering · Backend Systems for AI Products
